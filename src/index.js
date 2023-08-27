@@ -13,7 +13,8 @@ const messages = [
     "Batman! (this commit has no parents)",
     "Im one of those, when i walk, use both legs",
     "when i close my eyes, i cant see anything",
-    "its dark, cause its night, too crazy"
+    "its dark, cause its night, too crazy",
+    "gulugulu"
   ];
   
   //funcion que obtiene un indice aleatorio y le hace un console.log
